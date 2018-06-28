@@ -39,6 +39,7 @@ comments: false
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
+    Just a kid in the right place at the right time.
     Keep this sentence less than 13 words or it won't look good.
 
 about_footer: true
