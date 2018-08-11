@@ -13,10 +13,10 @@ author: Lachlan Sneff
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    Lachlan Sneff | Blog
 
 # This will what will show against &copy; in the footer
-copyright: accent
+# copyright:
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
@@ -39,7 +39,7 @@ comments: false
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
+    Just a kid in the right place at the right time.
 
 about_footer: true
 
