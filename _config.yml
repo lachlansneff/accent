@@ -49,7 +49,7 @@ github_username: lachlansneff
 favicon: true
 favicon_location: "favicon.ico"
 
-profile_picture: images/temp.png
+profile_picture: images/twitter_profile_picture.jpg
 paginate: 5
 paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
